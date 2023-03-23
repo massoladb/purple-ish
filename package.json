@@ -18,6 +18,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "purple ish (dimmed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple-ish-dimmed-color-theme.json"
+      },
+      {
         "label": "purple ish",
         "uiTheme": "vs-dark",
         "path": "./themes/purple-ish-color-theme.json"
